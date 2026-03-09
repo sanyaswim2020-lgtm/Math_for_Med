@@ -1,3 +1,5 @@
 .venv/
-nme_1 (overview).ipynb
+EEG_1 (overview).ipynb
 LEMON/
+requirements.txt
+EEG_3_Rest_eyes_open.ipynb
